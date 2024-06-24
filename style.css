@@ -189,11 +189,6 @@ a {
     margin-right: 5px;
 }
 
-.signin p {
-    font-size: 14px;
-    color: #666666;
-    margin-top: 10px;
-}
 .google-button {
     background-color:#dd4b39;
     color: white;
@@ -209,4 +204,9 @@ a {
 .github-button {
     background-color:#1D1D1F;
     color: white;
+}
+.signin p {
+    font-size: 14px;
+    color: #666666;
+    margin-top: 10px;
 }
